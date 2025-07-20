@@ -20,7 +20,7 @@ Bu proje, bir restoran yönetim sistemini simüle eden bir Java uygulamasıdır.
 
 ## 📘 Proje Yapısı
 
-Proje, `RestoranYonetim` adlı pakette aşağıdaki sınıfları içerir:
+Proje, aşağıdaki sınıfları içerir:
 
 - **`Kisi`**: Soyut temel sınıf. `Musteri` ve `Garson` sınıfları bu sınıftan türetilir.
 - **`Urun`**: Soyut sınıf. Menüdeki ürünlerin (`Yemek`, `Icecek`) ad ve fiyat gibi temel özelliklerini tanımlar.
