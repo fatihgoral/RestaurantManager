@@ -1,0 +1,8 @@
+Sipariş Bilgileri:
+Yemek: Fıstıklı Kuzu Kebap - 250.0
+İçecek: Boş - 0.0
+Garson: Ömer
+Musteri: Musa
+Zaman: Wed May 15 22:27:18 
+
+

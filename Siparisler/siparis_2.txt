@@ -1,0 +1,8 @@
+Sipariş Bilgileri:
+Yemek: Ciğer Kavurma - 100.0
+İçecek: Acılı Şalgam - 25.0
+Garson: Polat
+Musteri: Furkan
+Zaman: Wed May 15 22:27:18 
+
+

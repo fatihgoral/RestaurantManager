@@ -1,0 +1,7 @@
+Sipariş Bilgileri:
+Yemek: İçli Köfte - 60.0
+İçecek: Gazoz - 5.0
+Garson: Ömer
+Musteri: Necdet
+Zaman: Wed May 15 22:27:18 
+

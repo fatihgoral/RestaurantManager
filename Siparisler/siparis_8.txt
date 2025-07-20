@@ -1,0 +1,7 @@
+Sipariş Bilgileri:
+Yemek: Boş - 0.0
+İçecek: Boş - 0.0
+Garson: Polat
+Musteri: Necdet
+Zaman: Wed May 15 22:27:18 
+
